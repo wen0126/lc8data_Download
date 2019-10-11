@@ -1,4 +1,4 @@
-# lc8data_Download
+# landsat 8 data_Download
 Automatic download of LANDSAT8 data
 
 > 1. you should download 'index.csv' first, url:https://cloud.google.com/storage/docs/public-datasets/?hl=zh-cn
