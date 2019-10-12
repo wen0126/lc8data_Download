@@ -3,7 +3,7 @@ from subprocess import call
 
 IDM = r'C:\Program Files (x86)\Internet Download Manager\IDMan.exe'
 
-file_path = './23031/gs23031_url.txt'
+file_path = './119026/gs119026_url_LANDSAT_8.txt'
 base_path = os.path.dirname(os.path.abspath(file_path))
 with open(file_path,'r') as f:
     file = f.read()
